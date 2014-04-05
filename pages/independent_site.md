@@ -196,4 +196,4 @@ fingers that it worked. (Really, _I_ should be crossing my fingers.)
 
 ### Up next
 
-Now go to [making a personal site](personal_site.html).
+Now go to [making a personal site](user_site.html).
