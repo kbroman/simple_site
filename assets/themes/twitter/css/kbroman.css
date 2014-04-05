@@ -2,7 +2,6 @@ code {
   padding: 0;
   font-size: 100%;
   color: black;
-  background-color: none;
-  background: none;
+  background-color: white;
   border: 0px solid white;
 }
