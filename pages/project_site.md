@@ -40,3 +40,12 @@ Move all of the stuff from that directory into _your_ repository
 
 Edit everything [as before](independent_site.html).
 Commit everything and push the `gh-pages` branch to github.
+
+Now you'll switch back-and-forth between the `gh-pages` branch (to
+edit your website) and the `master` or other branchs (to edit your
+project).
+
+Personally, I'll clone a separate copy of my repository, one directory
+up, called `Web/`, that is sitting in the `gh-pages` branch. Then
+rather than using `git checkout` to switch between the code and the
+web, I switch from one directory to another.
