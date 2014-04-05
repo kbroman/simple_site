@@ -5,3 +5,7 @@ code {
   background-color: white;
   border: 0px solid white;
 }
+
+a code {
+  color: #08c;
+}
