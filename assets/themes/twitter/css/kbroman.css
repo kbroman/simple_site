@@ -3,5 +3,6 @@ code {
   font-size: 100%;
   color: black;
   background-color: none;
+  background: none;
   border: 0px solid white;
 }
