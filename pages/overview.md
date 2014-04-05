@@ -5,7 +5,8 @@ title: Overview of GitHub Pages
 
 The present site is close to the simplest possible. It has a
 particular style (using
-[Twitter Bootstrap](http://getbootstrap.com)). And my first rule for
+[JekyllBootstrap](http://jekyllbootstrap.com/) and [Twitter Bootstrap](http://getbootstrap.com)
+with a particular theme). And my first rule for
 minimizing effort is _Modify your desires to match the defaults._
 
 These GitHub Pages sites are constructed by having a `gh-pages` branch
