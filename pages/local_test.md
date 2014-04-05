@@ -10,6 +10,19 @@ To test your site locally, you'll need
 
 ### Installing ruby
 
+There are
+[lots of different ways to install ruby](https://www.ruby-lang.org/en/installation/).
+
+
+In Mac OS X, older versions of ruby will already be installed.  But I
+use the [Ruby Version Manager (RVM)](http://rvm.io/) to have a more
+recent version.  You could also use [Homebrew](http://brew.sh/).
+
+In Windows, use [RubyInstaller](http://rubyinstaller.org/). (In most
+of this tutorial, I've assumed you're using a Mac or some flavor of
+Unix. It's possible that none of this was usable for Windows
+folks. Sorry!)
+
 
 ### Installing the github-pages gem
 
