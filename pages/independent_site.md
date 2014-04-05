@@ -107,13 +107,13 @@ Find the
 and remove it or edit it to suit. This is the only bit of html you'll
 have to deal with.
 
-    <-- start of Karl's footer; modify this part -->
+    <!-- start of Karl's footer; modify this part -->
         <a href="http://creativecommons.org/publicdomain/zero/1.0/">
 
            ... blah blah blah ...
 
         href="http://github.com" target="_blank">github</a>
-    <-- end of Karl's footer; modify this part -->
+    <!-- end of Karl's footer; modify this part -->
 
 ### Edit or remove the Markdown
 
