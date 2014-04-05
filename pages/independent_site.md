@@ -148,6 +148,7 @@ look like this:
     - [Making a site for a project](pages/project_site.html)
     - [Making a jekyll-free site](pages/nojekyll.html)
     - [Testing your site locally](pages/local_test.html)
+    - [Resources](pages/resources.html)
 
 ### Commit all of these changes.
 

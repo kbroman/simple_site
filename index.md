@@ -50,6 +50,7 @@ read any of the other things, such as
 - [Making a site for a project](pages/project_site.html)
 - [Making a jekyll-free site](pages/nojekyll.html)
 - [Testing your site locally](pages/local_test.html)
+- [Resources](pages/resources.html)
 
 If anything here is confusing (or _wrong_!), of if I've missed
 important details, please
