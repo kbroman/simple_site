@@ -9,7 +9,7 @@ web site using
 [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](http://git-scm.com).
 
-For me, the painful aspects of having a web site are
+For me, the painful aspects of making a web site are
 
 - Working with html and css
 - Finding a hosting site
@@ -28,7 +28,7 @@ If you love [git](http://git-scm.com/) and
 The sites use [Jekyll](http://jekyllrb.com/), a
 [ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
 convert Markdown files to html and css, and this part is done
-automatically when you push the materials to the github-pages branch
+automatically when you push the materials to the `gh-pages` branch
 of a GitHub repository.
 
 The [GitHub](http://pages.github.com) and
