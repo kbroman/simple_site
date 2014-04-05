@@ -49,3 +49,8 @@ Personally, I'll clone a separate copy of my repository, one directory
 up, called `Web/`, that is sitting in the `gh-pages` branch. Then
 rather than using `git checkout` to switch between the code and the
 web, I switch from one directory to another.
+
+### Up next
+
+Now go to [making a jekyll-free site](nojekyll.html) or
+[testing your site locally](local_test.html).

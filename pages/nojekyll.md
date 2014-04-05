@@ -17,3 +17,7 @@ I recommend using [Jekyll](http://jekyllrb.com/) and
 [Markdown](https://daringfireball.net/projects/markdown/),
 though. Markdown is just so much nicer than html, to write and
 maintain.
+
+### Up next
+
+Now go to [testing your site locally](local_test.html).

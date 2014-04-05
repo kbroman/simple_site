@@ -193,3 +193,7 @@ this stuff in a `gh-pages` branch.
 
 Go to `http://username.github.io/something_meaningful` and cross your
 fingers that it worked. (Really, _I_ should be crossing my fingers.)
+
+### Up next
+
+Now go to [making a personal site](personal_site.html).

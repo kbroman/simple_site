@@ -44,3 +44,7 @@ you do differently is to use the `master` branch rather than a
 A final note: the `404.html` file will serve as the &ldquo;page not
 found&rdquo; page for _all_ of your GitHub Pages (that is, if you
 _want_ a personalized 404 page).
+
+### Up next
+
+Now go to [making a project site](project_site.html).
