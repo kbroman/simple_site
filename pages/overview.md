@@ -101,4 +101,4 @@ Read about the [Kramdown syntax](http://kramdown.gettalong.org/syntax.html)
 or just look at the
 [quick reference](http://kramdown.gettalong.org/quickref.html).
 
-Now go to the page about [how to make an independent web site](independent_site.html).
+Now go to the page about [how to make an independent website](independent_site.html).

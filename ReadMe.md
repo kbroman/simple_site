@@ -1,7 +1,7 @@
 ## Simple site: Easy websites with GitHub pages
 
 [Github Pages](http://pages.github.com) provide a simple way to make a
-web site using Markdown and git.
+website using Markdown and git.
 
 This is a minimal tutorial to get started.
 

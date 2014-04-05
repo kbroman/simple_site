@@ -5,11 +5,11 @@ tagline: Easy websites with GitHub Pages
 ---
 
 [Github Pages](http://pages.github.com) provide a simple way to make a
-web site using
+website using
 [Markdown](https://daringfireball.net/projects/markdown/) and
 [git](http://git-scm.com).
 
-For me, the painful aspects of making a web site are
+For me, the painful aspects of making a website are
 
 - Working with html and css
 - Finding a hosting site
@@ -40,12 +40,12 @@ a site like the one you're looking at now, read on.
 
 Start by reading the [Overview page](pages/overview.html), which
 explains the basic structure of these sites. Then read
-[how to make an independent web site](pages/independent_site.html). Then
+[how to make an independent website](pages/independent_site.html). Then
 read any of the other things, such as
 [how to test your site locally](pages/local_test.html).
 
 - [Overview](pages/overview.html)
-- [Making an independent web site](pages/independent_site.html)
+- [Making an independent website](pages/independent_site.html)
 - [Making a personal site](pages/user_site.html)
 - [Making a site for a project](pages/project_site.html)
 - [Making a jekyll-free site](pages/nojekyll.html)
