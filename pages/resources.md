@@ -12,3 +12,4 @@ other resources.
 - [Twitter Bootstrap](http://getbootstrap.com)
 - [Markdown](https://daringfireball.net/projects/markdown)
 - [Kramdown](http://kramdown.gettalong.org)
+- [GitHub Pages for projects (blog post)](http://blog.aquinzi.com/gh-pages-project/)
