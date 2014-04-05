@@ -50,7 +50,7 @@ will become html pages on your site.
 The
 [`_config.yml`](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml)
 file contains all sorts of configuration parameters (some of which
-you'll need to modify). The [`Rakefile`]() contains instructions for
+you'll need to modify). The [`Rakefile`](https://github.com/kbroman/simple_site/blob/gh-pages/Rakefile) contains instructions for
 the conversion; you won't modify this file.
 
 It's best to always include
