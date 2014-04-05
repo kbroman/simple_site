@@ -12,3 +12,8 @@ If you want some directories with underscores, just include a file
 names `.nojekyll`. You might just include that anyway.  See the
 [source for my kbroman.github.io](http://github.com/kbroman/kbroman.github.io)
 site.
+
+I recommend using [Jekyll](http://jekyllrb.com/) and
+[Markdown](https://daringfireball.net/projects/markdown/),
+though. Markdown is just so much nicer than html, to write and
+maintain.
