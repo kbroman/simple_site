@@ -5,12 +5,12 @@ title: Making a project site
 
 If you want to make a website for a GitHub-hosted project, as I've
 done for my [R/qtlcharts package](http://kbroman.github.io/qtlcharts),
-you just follow my
+you follow my
 [instructions for making an independent site](independent_site.html),
 with just a few modifications.
 
 Go to your local repository and create a `gh-pages` branch and then
-switch to that new branch
+switch to that new branch.
 
     cd my_repo
     git branch gh-pages
@@ -19,7 +19,7 @@ switch to that new branch
 Remove _everything_, and then commit having removed everything.
 
     git rm -r .
-    git commit -m "Remove everything frmo gh-pages"
+    git commit -m "Remove everything from gh-pages"
 
 Now go back one directory and clone
 [the present repository](http://github.com/kbroman/simple_site).
