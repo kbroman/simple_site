@@ -8,10 +8,6 @@ particular style (using
 [Twitter Bootstrap](http://getbootstrap.com)). And my first rule for
 minimizing effort is _Modify your desires to match the defaults._
 
-(For example, I don't like how `simple code` is rendered in red within
-a gray box. Ultimately I'll try to figure out how to change that, but
-for now I just pretend that I like it that way.)
-
 These GitHub Pages sites are constructed by having a `gh-pages` branch
 of a GitHub repository, with specific files layed out in a specific
 way. To see the structure of such a repository, look at the
