@@ -118,11 +118,11 @@ have to deal with.
 ### Edit or remove the Markdown
 
 Edit the
-[`index.md`](https://github.com/kbroman/simple_site/blob/gh-pages/index.md)
+[`index.md`](https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md)
 file, which will become the main page for your site.
 
-First, edit [the initial chunk](https://github.com/kbroman/simple_site/blob/gh-pages/index.md)
-with a different title and tagline. Feel free to just delete the tagline.
+First, edit the initial chunk with a different title and tagline. Feel
+free to just delete the tagline.
 
     ---
     layout: page
@@ -134,6 +134,20 @@ Now edit the rest (or, for now, just remove) the rest of the file.
 
 Now go into the [`pages/`](https://github.com/kbroman/simple_site/blob/gh-pages/pages) directory and remove or rename and modify
 all of the Markdown files in there
+
+Note that when you link to any of these Markdown-based pages, you'll
+want to use a `.html` extension rather than `.md`. For example, look
+at the
+[main page](https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md)
+for this site; the links in the bullet points for the various pages
+look like this:
+
+    - [Overview](pages/overview.html)
+    - [Making an independent website](pages/independent_site.html)
+    - [Making a personal site](pages/user_site.html)
+    - [Making a site for a project](pages/project_site.html)
+    - [Making a jekyll-free site](pages/nojekyll.html)
+    - [Testing your site locally](pages/local_test.html)
 
 ### Commit all of these changes.
 

@@ -71,16 +71,15 @@ final site.
     exclude: ["ReadMe.md", "Rakefile", "License.md"]
 
 Finally,
-[`index.md`](https://github.com/kbroman/simple_site/blob/gh-pages/index.md)
+[`index.md`](https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md)
 is the Markdown version of the main page for your site.
 
 The
-[`index.md`](https://github.com/kbroman/simple_site/blob/gh-pages/index.md)
+[`index.md`](https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md)
 file and the Markdown files in
 [`pages/`](https://github.com/kbroman/simple_site/blob/gh-pages/pages)
 (e.g.,
-[the present page](https://github.com/kbroman/simple_site/blob/gh-pages/pages/overview.md);
-click the &ldquo;Raw&rdquo; to view the raw Markdown source)
+[the present page](https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/pages/overview.md))
 have a header with a particular form:
 
     ---
