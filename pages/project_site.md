@@ -9,17 +9,17 @@ you follow my
 [instructions for making an independent site](independent_site.html),
 with just a few modifications.
 
-Go to your local repository and create a `gh-pages` branch and then
-switch to that new branch.
+Go to your local repository and create and switch to an
+&ldquo;oprhan&rdquo; `gh-pages` branch. (It's an &ldquo;oprhan&rdquo;
+branch because it won't contain the whole history of your project.
+
 
     cd my_repo
-    git branch gh-pages
-    git checkout gh-pages
+    git checkout --orphan gh-pages
 
-Remove _everything_, and then commit having removed everything.
+Remove _everything_.
 
-    git rm -r .
-    git commit -m "Remove everything from gh-pages"
+    git rm -rf .
 
 Now go back one directory and clone
 [the present repository](http://github.com/kbroman/simple_site).
@@ -40,6 +40,10 @@ Move all of the stuff from that directory into _your_ repository
 
 Edit everything [as before](independent_site.html).
 Commit everything and push the `gh-pages` branch to github.
+
+    git add .
+    git commit -m "Initial commit of web site"
+    git push origin gh-pages
 
 Now you'll switch back-and-forth between the `gh-pages` branch (to
 edit your website) and the `master` or other branchs (to edit your
