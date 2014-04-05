@@ -27,7 +27,7 @@ If you love [git](http://git-scm.com/) and
 
 The sites use [Jekyll](http://jekyllrb.com/), a
 [ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html and css, and this part is done
+convert Markdown files to html, and this part is done
 automatically when you push the materials to the `gh-pages` branch
 of a GitHub repository.
 
