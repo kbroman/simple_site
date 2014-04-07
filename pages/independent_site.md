@@ -19,14 +19,7 @@ Then change the name of that directory to something meaningful.
     mv simple_site something_meaningful
 
 (Of course, don't use `something_meaningful` but rather
-&ldquo;something meaningful.&rdquo;)
-
-I've placed
-[the present repository](http://github.com/kbroman/simple_site) in the
-[public domain](http://creativecommons.org/publicdomain/zero/1.0/), so
-do with it what you will, and cite
-[me](http://www.biostat.wisc.edu/~kbroman) or not, as you feel is
-appropriate.
+_something meaningful_.)
 
 Now change into that directory and remove the `.git` directory
 (because you don't want the history of _my_ repository).
