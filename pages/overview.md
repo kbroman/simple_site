@@ -90,10 +90,10 @@ that the current file is to be converted with the &ldquo;page&rdquo;
 layout, and gives the title and the (optional) &ldquo;tagline.&rdquo;
 
 The rest is basically plain Markdown, though the present site is
-configured to use [Kramdown](http://kramdown.gettalong.org/) as the
+configured to use [kramdown](http://kramdown.gettalong.org/) as the
 Markdown converter (via
 [this line in the `_config.yml` file](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L23)).
-Read about the [Kramdown syntax](http://kramdown.gettalong.org/syntax.html)
+Read about the [kramdown syntax](http://kramdown.gettalong.org/syntax.html)
 or just look at the
 [quick reference](http://kramdown.gettalong.org/quickref.html).
 

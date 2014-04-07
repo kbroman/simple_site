@@ -11,7 +11,7 @@ other resources.
 - [JekyllBootstrap](http://jekyllbootstrap.com)
 - [Twitter Bootstrap](http://getbootstrap.com)
 - [Markdown](https://daringfireball.net/projects/markdown)
-- [Kramdown](http://kramdown.gettalong.org)
+- [kramdown](http://kramdown.gettalong.org)
 
 - [Using GitHub Pages to host your website](http://bcreativeweb.blogspot.com/2013/08/using-github-pages-to-host-your-website.html)
 - [A guide to using GitHub Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
