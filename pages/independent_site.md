@@ -96,7 +96,7 @@ file defines how a basic page will look on your site. In particular,
 it contains a bit of html code for a footer, if you want one.
 
 Find the
-[footer for my site](https://github.com/kbroman/simple_site/blob/gh-pages/_includes/themes/twitter/default.html#L46-L53)
+[footer for my site](https://github.com/kbroman/simple_site/blob/gh-pages/_includes/themes/twitter/default.html#L47-L54)
 and remove it or edit it to suit. This is the only bit of html you'll
 have to deal with.
 
