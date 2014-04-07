@@ -108,7 +108,7 @@ have to deal with.
         href="http://github.com" target="_blank">github</a>
     <!-- end of Karl's footer; modify this part -->
 
-### Edit or remove the Markdown
+### Edit or remove the Markdown files
 
 Edit the
 [`index.md`](https://raw.githubusercontent.com/kbroman/simple_site/gh-pages/index.md)
