@@ -3,11 +3,13 @@ layout: page
 title: Overview of GitHub Pages
 ---
 
-The present site is close to the simplest possible. It has a
-particular style (using
-[JekyllBootstrap](http://jekyllbootstrap.com/) and [Twitter Bootstrap](http://getbootstrap.com)
-with a particular theme). And my first rule for
-minimizing effort is _Modify your desires to match the defaults._
+The present site is simple, with a style derived from
+[JekyllBootstrap](http://jekyllbootstrap.com/) and
+[Twitter Bootstrap](http://getbootstrap.com) with a particular
+theme. I'll explain how to create a site with exactly this style. If
+you want something else, try the
+[GitHub Pages](http://pages.github.com) automatic site generator, or
+look at the [resources page](pages/resources.html).
 
 These GitHub Pages sites are constructed by having a `gh-pages` branch
 of a GitHub repository, with specific files layed out in a specific
