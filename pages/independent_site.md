@@ -105,7 +105,7 @@ have to deal with.
 
            ... blah blah blah ...
 
-        href="http://github.com" target="_blank">github</a>
+        hosted by <a href="http://github.com">github</a>
     <!-- end of Karl's footer; modify this part -->
 
 ### Edit or remove the Markdown files
