@@ -10,7 +10,7 @@ you follow my
 with just a few modifications.
 
 Go to your local repository and create and switch to an
-&ldquo;oprhan&rdquo; `gh-pages` branch. (It's an &ldquo;oprhan&rdquo;
+&ldquo;orphan&rdquo; `gh-pages` branch. (It's an &ldquo;orphan&rdquo;
 branch because it won't contain the whole history of your project.
 
 
