@@ -11,7 +11,7 @@ with just a few modifications.
 
 Go to your local repository and create and switch to an
 &ldquo;orphan&rdquo; `gh-pages` branch. (It's an &ldquo;orphan&rdquo;
-branch because it won't contain the whole history of your project.
+branch because it won't contain the whole history of your project.)
 
 
     cd my_repo
