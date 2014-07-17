@@ -88,6 +88,16 @@ in a similar way.
 
     ASSET_PATH : http://kbroman.github.io/simple_site/assets/themes/twitter
 
+Note that for the `BASE_PATH` and `ASSET_PATH`, I actually have
+`http://kbroman.org/` in place of `http://kbroman.github.io`. I set up
+a
+[custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages),
+which involved a series of emails with a DNS provider. I
+don't totally understand how it works, and I'm not _entirely_ sure
+that I've done it right. But if you want to have a custom domain, take
+a look at
+[that GitHub help page](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages).
+
 ### Edit `_includes/themes/twitter/default.html`
 
 The

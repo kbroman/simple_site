@@ -22,8 +22,10 @@ real differences are
 - The repository needs to be called `username.github.io`
 - The site sits in the `master` branch rather than the `gh-pages` branch.
 
-_My_ personal site, [kbroman.github.io](http://kbroman.github.io) is
-minimal and is actually written in straight html rather than
+_My_ personal site, [kbroman.github.io](http://kbroman.github.io) 
+(which shows up as [kbroman.org](http://kbroman.org); see the
+[GitHub help page on setting up a custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages))
+is minimal and is actually written in straight html rather than
 [Markdown](https://daringfireball.net/projects/markdown/). If you
 want, you could just make an edited version of my site:
 

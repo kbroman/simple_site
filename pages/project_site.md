@@ -4,7 +4,7 @@ title: Making a project site
 ---
 
 If you want to make a website for a GitHub-hosted project, as I've
-done for my [R/qtlcharts package](http://kbroman.github.io/qtlcharts),
+done for my [R/qtlcharts package](http://kbroman.org/qtlcharts),
 you follow my
 [instructions for making an independent site](independent_site.html),
 with just a few modifications.
