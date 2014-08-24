@@ -106,16 +106,13 @@ file defines how a basic page will look on your site. In particular,
 it contains a bit of html code for a footer, if you want one.
 
 Find the
-[footer for my site](https://github.com/kbroman/simple_site/blob/gh-pages/_includes/themes/twitter/default.html#L47-L54)
+[footer for my site](https://github.com/kbroman/simple_site/blob/gh-pages/_includes/themes/twitter/default.html#L47-L50)
 and remove it or edit it to suit. This is the only bit of html you'll
 have to deal with.
 
     <!-- start of Karl's footer; modify this part -->
-        <a href="http://creativecommons.org/publicdomain/zero/1.0/">
-
-           ... blah blah blah ...
-
-        hosted by <a href="http://github.com">github</a>
+        <a href="http://creativecommons.org/publicdomain/zero/1.0/">  ...
+        <a href="http://kbroman.org">Karl Broman</a>
     <!-- end of Karl's footer; modify this part -->
 
 ### Edit or remove the Markdown files
