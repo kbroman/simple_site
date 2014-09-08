@@ -54,5 +54,4 @@ Type the following in order to &ldquo;serve&rdquo; the site.
 
     jekyll serve
 
-Now open your browser and go to
-[http://localhost:4000](http://localhost:4000)
+Now open your browser and go to <http://localhost:4000>
