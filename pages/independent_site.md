@@ -82,13 +82,11 @@ with the same url.
 
     BASE_PATH : http://kbroman.github.io/simple_site
 
-Replace the
-[`ASSET_PATH` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L62)
-in a similar way.
+There's also an
+[`ASSET_PATH` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L62),
+but you can leave that commented-out (with the `#` symbol at the beginning).
 
-    ASSET_PATH : http://kbroman.github.io/simple_site/assets/themes/twitter
-
-Note that for the `BASE_PATH` and `ASSET_PATH`, I actually have
+Note that for the `BASE_PATH`, I actually have
 `http://kbroman.org/` in place of `http://kbroman.github.io`. I set up
 a
 [custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages),
