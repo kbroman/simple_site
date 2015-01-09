@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Testing your site locally
+description: How to test your GitHub Pages site locally.
 ---
 
 To test your site locally, you'll need
@@ -51,6 +52,8 @@ everything from `assets/`, and then the `index.md` and all
 `_site/index.html` and the various `_site/pages/*.html`.)
 
 Type the following in order to &ldquo;serve&rdquo; the site.
+This will first run `build`, and so it does _not_ need to be
+preceded by `jekyll build`.
 
     jekyll serve
 
