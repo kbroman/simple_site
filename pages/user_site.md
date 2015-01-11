@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Making a personal site
+description: How to make a personal web page with GitHub Pages
 ---
 
 Your [GitHub Pages](http://pages.github.com) sites will appear at
@@ -22,7 +23,7 @@ real differences are
 - The repository needs to be called `username.github.io`
 - The site sits in the `master` branch rather than the `gh-pages` branch.
 
-_My_ personal site, [kbroman.github.io](http://kbroman.github.io) 
+_My_ personal site, [kbroman.github.io](http://kbroman.github.io)
 (which shows up as [kbroman.org](http://kbroman.org); see the
 [GitHub help page on setting up a custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages))
 is minimal and is actually written in straight html rather than
