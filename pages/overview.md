@@ -86,11 +86,15 @@ have a header with a particular form:
     layout: page
     title: simple site
     tagline: Easy websites with GitHub Pages
+    description: Minimal tutorial on making a simple website with GitHub Pages
     ---
 
 In the conversion of the site from Markdown to html, this bit says
 that the current file is to be converted with the &ldquo;page&rdquo;
 layout, and gives the title and the (optional) &ldquo;tagline.&rdquo;
+The "`description:`" part gets converted into
+`<meta name="description" content="Minimal tutorial on...">`
+which, in principle, may used in the results of google searches.
 
 The rest is basically plain Markdown, though the present site is
 configured to use [kramdown](http://kramdown.gettalong.org/) as the
