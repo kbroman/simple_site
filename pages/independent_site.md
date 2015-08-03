@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Making an independent website
+description: How to make an independent website with GitHub Pages.
 ---
 
 This is what to do if you just want a website. (This page is a bit
@@ -87,7 +88,7 @@ There's also an
 but you can leave that commented-out (with the `#` symbol at the beginning).
 
 Note that for the `BASE_PATH`, I actually have
-`http://kbroman.org/` in place of `http://kbroman.github.io`. I set up
+`http://kbroman.org/` in place of `http://kbroman.github.io/`. I set up
 a
 [custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages),
 which involved a series of emails with a DNS provider. I

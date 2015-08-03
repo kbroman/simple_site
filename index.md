@@ -63,9 +63,9 @@ make modifications, and submit a pull request.
 
 The source for this minimal tutorial is [on github](http://github.com/kbroman/simple_site).
 
-Also see my
-[git/github guide](http://kbroman.org/github_tutorial),
-[knitr in a knutshell tutorial](http://kbroman.org/knitr_knutshell),
-[minimal make tutorial](http://kbroman.org/minimal_make),
-[R package primer](http://kbroman.org/pkg_primer),
-and [initial steps towards reproducible research](http://kbroman.org/steps2rr).
+Also see my [tutorials](http://kbroman.org/pages/tutorials) on
+[git/github](http://kbroman.org/github_tutorial),
+[GNU make](http://kbroman.org/minimal_make),
+[knitr](http://kbroman.org/knitr_knutshell),
+[R packages](http://kbroman.org/pkg_primer),
+and [reproducible research](http://kbroman.org/steps2rr).

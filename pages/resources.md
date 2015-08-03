@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+description: Resources related to GitHub Pages websites
 ---
 
 This is a minimal tutorial to get you started. There are lots of
@@ -13,6 +14,7 @@ other resources.
 - [Markdown](https://daringfireball.net/projects/markdown)
 - [kramdown](http://kramdown.gettalong.org)
 
+- [Get started with GitHub Pages (plus bonus Jekyll)](http://24ways.org/2013/get-started-with-github-pages/)
 - [Using GitHub Pages to host your website](http://bcreativeweb.blogspot.com/2013/08/using-github-pages-to-host-your-website.html)
 - [A guide to using GitHub Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 - [Using GitHub to power a web project: How and why](http://audreywatters.com/2013/07/07/how-to-run-your-site-on-github/)
