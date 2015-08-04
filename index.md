@@ -68,4 +68,5 @@ Also see my [tutorials](http://kbroman.org/pages/tutorials) on
 [GNU make](http://kbroman.org/minimal_make),
 [knitr](http://kbroman.org/knitr_knutshell),
 [R packages](http://kbroman.org/pkg_primer),
+[data organization](http://kbroman.org/dataorg),
 and [reproducible research](http://kbroman.org/steps2rr).
