@@ -94,7 +94,7 @@ that the current file is to be converted with the &ldquo;page&rdquo;
 layout, and gives the title and the (optional) &ldquo;tagline.&rdquo;
 The "`description:`" part gets converted into
 `<meta name="description" content="Minimal tutorial on...">`
-which, in principle, may used in the results of google searches.
+which, in principle, may be used in the results of google searches.
 
 The rest is basically plain Markdown, though the present site is
 configured to use [kramdown](http://kramdown.gettalong.org/) as the
