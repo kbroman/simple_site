@@ -10,7 +10,7 @@ long, but it's really not that much work.)
 ### First things
 
 Start by cloning
-[the repository for the present site](http://github.com/kbroman/simple_site). (Or,
+[the repository for the present site](https://github.com/kbroman/simple_site). (Or,
 alternatively, fork it and then clone your own version.)
 
     git clone git://github.com/kbroman/simple_site
@@ -75,20 +75,20 @@ by replacing `kbroman` with _your_ github user name, and replace
 `simple_site` with the name that your repository will have on github
 (`something_meaningful`?).
 
-    production_url : http://kbroman.github.io/simple_site
+    production_url : https://kbroman.github.io/simple_site
 
 Replace the
 [`BASE_PATH` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L52)
 with the same url.
 
-    BASE_PATH : http://kbroman.github.io/simple_site
+    BASE_PATH : https://kbroman.github.io/simple_site
 
 There's also an
 [`ASSET_PATH` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L62),
 but you can leave that commented-out (with the `#` symbol at the beginning).
 
 Note that for the `BASE_PATH`, I actually have
-`http://kbroman.org/` in place of `http://kbroman.github.io/`. I set up
+`http://kbroman.org/` in place of `https://kbroman.github.io/`. I set up
 a
 [custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages),
 which involved a series of emails with a DNS provider. I
@@ -110,7 +110,7 @@ and remove it or edit it to suit. This is the only bit of html you'll
 have to deal with.
 
     <!-- start of Karl's footer; modify this part -->
-        <a href="http://creativecommons.org/publicdomain/zero/1.0/">  ...
+        <a href="https://creativecommons.org/publicdomain/zero/1.0/">  ...
         <a href="http://kbroman.org">Karl Broman</a>
     <!-- end of Karl's footer; modify this part -->
 
@@ -171,7 +171,7 @@ meaningful. (I'll again pretend that it's explicitly
 `something_meaningful`.)
 
 Then go back to the command line and push your repository to
-[GitHub](http://github.com).
+[GitHub](https://github.com).
 
     git remote add origin git@github.com:username/something_meaningful
 
@@ -190,7 +190,7 @@ this stuff in a `gh-pages` branch.
 
 ### Check whether it worked
 
-Go to `http://username.github.io/something_meaningful` and cross your
+Go to `https://username.github.io/something_meaningful` and cross your
 fingers that it worked. (Really, _I_ should be crossing my fingers.)
 
 ### Up next

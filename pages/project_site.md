@@ -23,7 +23,7 @@ Remove _everything_.
     git rm -rf .
 
 Now go back one directory and clone
-[the present repository](http://github.com/kbroman/simple_site).
+[the present repository](https://github.com/kbroman/simple_site).
 
     cd ..
     git clone git://github.com/kbroman/simple_site

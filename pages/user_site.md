@@ -4,14 +4,14 @@ title: Making a personal site
 description: How to make a personal web page with GitHub Pages
 ---
 
-Your [GitHub Pages](http://pages.github.com) sites will appear at
+Your [GitHub Pages](https://pages.github.com) sites will appear at
 
-    http://username.github.io/some_site
+    https://username.github.io/some_site
 
 Of course, this will be with _your_ GitHub user name and with the
 names of your GitHub repositories.
 
-I'd recommend putting _something_ at `http://username.github.io`,
+I'd recommend putting _something_ at `https://username.github.io`,
 since people might look there. (When I started with GitHub Pages, I
 thought you were _required_ to have such a site, but either they've
 changed things or I'm just mistaken; you don't _need_ this anymore.)
@@ -23,7 +23,7 @@ real differences are
 - The repository needs to be called `username.github.io`
 - The site sits in the `master` branch rather than the `gh-pages` branch.
 
-_My_ personal site, [kbroman.github.io](http://kbroman.github.io)
+_My_ personal site, [kbroman.github.io](https://kbroman.github.io)
 (which shows up as [kbroman.org](http://kbroman.org); see the
 [GitHub help page on setting up a custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages))
 is minimal and is actually written in straight html rather than
@@ -31,7 +31,7 @@ is minimal and is actually written in straight html rather than
 want, you could just make an edited version of my site:
 
 - Clone my
-  [kbroman.github.io repository](http://github.com/kbroman/kbroman.github.io)
+  [kbroman.github.io repository](https://github.com/kbroman/kbroman.github.io)
 - Remove the `.git` directory
 - Edit `index.html`, `404.html`, `README.md`, and `License.md`
 - Use `git init`, `git add`, `git commit`

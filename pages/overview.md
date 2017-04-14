@@ -5,17 +5,17 @@ description: Overview of construction of a website with GitHub Pages
 ---
 
 The present site is simple, with a style derived from
-[JekyllBootstrap](http://jekyllbootstrap.com/) and
-[Twitter Bootstrap](http://getbootstrap.com) with a particular
+[JekyllBootstrap](https://jekyllbootstrap.com/) and
+[Twitter Bootstrap](https://getbootstrap.com) with a particular
 theme. I'll explain how to create a site with exactly this style. If
 you want something else, try the
-[GitHub Pages](http://pages.github.com) automatic site generator, or
+[GitHub Pages](https://pages.github.com) automatic site generator, or
 look at the [resources page](pages/resources.html).
 
 These GitHub Pages sites are constructed by having a `gh-pages` branch
 of a GitHub repository, with specific files layed out in a specific
 way. To see the structure of such a repository, look at the
-[repository for the present site](http://github.com/kbroman/simple_site).
+[repository for the present site](https://github.com/kbroman/simple_site).
 
     _includes/
     _layouts/
@@ -61,7 +61,7 @@ It's best to always include
 and
 [`ReadMe.md`](https://github.com/kbroman/simple_site/tree/gh-pages/ReadMe.md)
 files. But you wouldn't need these to be placed on the website; they'd
-just be viewed in the repository on [GitHub](http://github.com). The
+just be viewed in the repository on [GitHub](https://github.com). The
 [`_config.yml`](https://github.com/kbroman/simple_site/tree/gh-pages/_config.yml)
 file contains
 [a line sort of like the following](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L5)
@@ -97,11 +97,11 @@ The "`description:`" part gets converted into
 which, in principle, may be used in the results of google searches.
 
 The rest is basically plain Markdown, though the present site is
-configured to use [kramdown](http://kramdown.gettalong.org/) as the
+configured to use [kramdown](https://kramdown.gettalong.org/) as the
 Markdown converter (via
 [this line in the `_config.yml` file](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L23)).
-Read about the [kramdown syntax](http://kramdown.gettalong.org/syntax.html)
+Read about the [kramdown syntax](https://kramdown.gettalong.org/syntax.html)
 or just look at the
-[quick reference](http://kramdown.gettalong.org/quickref.html).
+[quick reference](https://kramdown.gettalong.org/quickref.html).
 
 Now go to the page about [how to make an independent website](independent_site.html).

@@ -16,10 +16,10 @@ There are
 
 
 In Mac OS X, older versions of ruby will already be installed.  But I
-use the [Ruby Version Manager (RVM)](http://rvm.io/) to have a more
-recent version.  You could also use [Homebrew](http://brew.sh/).
+use the [Ruby Version Manager (RVM)](https://rvm.io/) to have a more
+recent version.  You could also use [Homebrew](https://brew.sh/).
 
-In Windows, use [RubyInstaller](http://rubyinstaller.org/). (In most
+In Windows, use [RubyInstaller](https://rubyinstaller.org/). (In most
 of this tutorial, I've assumed you're using a Mac or some flavor of
 Unix. It's possible that none of this was usable for Windows
 folks. Sorry!)
@@ -32,7 +32,7 @@ Run the following command:
     gem install github-pages
 
 This will install the `github-pages` gem and all dependencies
-(including [jekyll](http://jekyllrb.com/)).
+(including [jekyll](https://jekyllrb.com/)).
 
 Later, to update the gem, type:
 
