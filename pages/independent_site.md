@@ -77,6 +77,11 @@ by replacing `kbroman` with _your_ github user name, and replace
 
     production_url : https://kbroman.github.io/simple_site
 
+Note that the `https` (vs `http`) is important here; see
+&ldquo;[Securing your github pages site with https](https://help.github.com/articles/securing-your-github-pages-site-with-https/).&rdquo;
+(I need to use `http` because my site uses the custom domain
+`kbroman.org`, but you likely need `https`.)
+
 Replace the
 [`BASE_PATH` line](https://github.com/kbroman/simple_site/blob/gh-pages/_config.yml#L52)
 with the same url.
