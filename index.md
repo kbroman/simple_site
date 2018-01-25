@@ -5,4 +5,4 @@ tagline: Katharina Hees
 
 ---
 
-This is my personal webpage. Site is  under construction at the moment.
+This is my personal webpage. The site is under construction at the moment.
