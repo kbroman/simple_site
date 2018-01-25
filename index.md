@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personal Webpage
-tagline: Katharina Hees
+tagline: by Katharina Hees
 
 ---
 
