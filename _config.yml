@@ -1,4 +1,4 @@
-# This is the default format.
+p# This is the default format.
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink: /:categories/:year/:month/:day/:title
 
@@ -8,7 +8,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : simple site
+title : Homepage
 author :
   name : Katharina Hees
   email : heeskatharina@gmail.com
