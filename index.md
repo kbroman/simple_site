@@ -7,4 +7,4 @@ tagline: Katharina Hees
 
 This is my personal webpage. The site is under construction at the moment.
 
-[Overview](pages/overview.html)
+[Overview](pages/overview.md)
