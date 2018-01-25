@@ -10,10 +10,10 @@ highlighter: rouge
 #
 title : simple site
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  twitter : kwbroman
+  name : Katharina Hees
+  email : heeskatharina@gmail.com
+  github : khees
+  twitter : khees_stat
   feedburner : nil
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
@@ -52,7 +52,7 @@ JB :
   #     This means always setting the protocol (http|https) or prefixing with "/"
   #
   # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-  BASE_PATH : http://kbroman.org/simple_site
+  BASE_PATH : https://khees.github.io/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
