@@ -93,7 +93,7 @@ There's also an
 but you can leave that commented-out (with the `#` symbol at the beginning).
 
 Note that for the `BASE_PATH`, I actually have
-`http://kbroman.org/` in place of `https://kbroman.github.io/`. I set up
+`https://kbroman.org/` in place of `https://kbroman.github.io/`. I set up
 a
 [custom domain](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages),
 which involved a series of emails with a DNS provider. I
@@ -116,7 +116,7 @@ have to deal with.
 
     <!-- start of Karl's footer; modify this part -->
         <a href="https://creativecommons.org/publicdomain/zero/1.0/">  ...
-        <a href="http://kbroman.org">Karl Broman</a>
+        <a href="https://kbroman.org">Karl Broman</a>
     <!-- end of Karl's footer; modify this part -->
 
 ### Edit or remove the Markdown files

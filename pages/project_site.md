@@ -5,7 +5,7 @@ description: Using GitHub Pages to make a webpage for a GitHub-hosted project
 ---
 
 If you want to make a website for a GitHub-hosted project, as I've
-done for my [R/qtlcharts package](http://kbroman.org/qtlcharts),
+done for my [R/qtlcharts package](https://kbroman.org/qtlcharts),
 you follow my
 [instructions for making an independent site](independent_site.html),
 with just a few modifications.
