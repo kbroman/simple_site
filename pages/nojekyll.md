@@ -11,7 +11,7 @@ and avoid directory names that start with underscores.
 
 If you want some directories with underscores, just include a file
 named `.nojekyll`. You might just include that anyway.  See the
-[source for my kbroman.github.io](https://github.com/kbroman/kbroman.github.io)
+[source for the rqtl.github.io](https://github.com/rqtl/rqtl.github.io)
 site.
 
 I recommend using [Jekyll](https://jekyllrb.com/) and
