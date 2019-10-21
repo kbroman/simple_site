@@ -5,8 +5,7 @@ tagline: database bilkent
 description: database bilkent
 ---
 
-[Project Proposal](https://pages.github.com) provide a simple way to make a
-website using
+[Project Proposal](https://pages.github.com) 
 
 Group Members:
 - Hikmet Demir
