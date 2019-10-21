@@ -17,7 +17,7 @@ author :
   feedburner : nil
 
 # NOTE: Replacing this next line with your own URL
-production_url : https://kbroman.github.io/simple_site
+production_url : https://databasebilkent.github.io
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
