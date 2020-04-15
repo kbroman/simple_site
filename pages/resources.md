@@ -13,10 +13,8 @@ other resources.
 - [Twitter Bootstrap](https://getbootstrap.com)
 - [Markdown](https://daringfireball.net/projects/markdown)
 - [kramdown](https://kramdown.gettalong.org)
-
 - [Getting a custom domain](https://blog.brooke.science/posts/custom-domain-hosting-with-github-and-namecheap/)
   (by [Brooke Watson](https://blog.brooke.science/))
-
 - [Get started with GitHub Pages (plus bonus Jekyll)](https://24ways.org/2013/get-started-with-github-pages/)
 - [Using GitHub Pages to host your website](https://bcreativeweb.blogspot.com/2013/08/using-github-pages-to-host-your-website.html)
 - [A guide to using GitHub Pages](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
