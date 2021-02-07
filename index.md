@@ -63,7 +63,7 @@ make modifications, and submit a pull request.
 
 The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
 
-Also see my [tutorials](https://kbroman.org/pages/tutorials) on
+Also see my [tutorials](https://kbroman.org/tutorials) on
 [git/github](https://kbroman.org/github_tutorial),
 [GNU make](https://kbroman.org/minimal_make),
 [knitr](https://kbroman.org/knitr_knutshell),
