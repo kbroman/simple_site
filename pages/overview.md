@@ -10,7 +10,7 @@ The present site is simple, with a style derived from
 theme. I'll explain how to create a site with exactly this style. If
 you want something else, try the
 [GitHub Pages](https://pages.github.com) automatic site generator, or
-look at the [resources page](pages/resources.html).
+look at the [resources page](resources.html).
 
 These GitHub Pages sites are constructed by having a `gh-pages` branch
 of a GitHub repository, with specific files layed out in a specific
@@ -31,7 +31,7 @@ way. To see the structure of such a repository, look at the
 
 The directories beginning with an underscore contain materials
 defining the basic layout and style for the site. If you
-[build the site locally](pages/local_test.html) (for testing
+[build the site locally](local_test.html) (for testing
 purposes), there will also be a `_site/` directory containing the
 actual site (with
 [Markdown](https://daringfireball.net/projects/markdown/) files
