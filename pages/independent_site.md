@@ -66,7 +66,6 @@ Edit the
       name : Karl Broman
       email : kbroman@gmail.com
       github : kbroman
-      twitter : kwbroman
       feedburner : nil
 
 Edit the
