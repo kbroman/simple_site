@@ -1,72 +1,18 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Feather
+tagline: Lightweight solutions to stay soaring
+description: Sharing tips, tricks, and data from Feather Analytics
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
-
-For me, the painful aspects of making a website are
-
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
-
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
-
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
-
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
-
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
-
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
-
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
-
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
+This is the homepage for Feather, my brand for sharing code and data. My name is David Hardage, a data analyst located in Texas. 
 
 ---
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
+My background is in business analysis. I've spent most of my time in the hospitality industry as well as the manufacturing industry. My tech stack consists of SQL and [dbt](https://www.getdbt.com/), [Fivetran](https://fivetran.com/), [Snowflake](https://www.snowflake.com/en/) and [BigQuery](https://cloud.google.com/bigquery), and a variety of BI visualization tools, such as [Looker](https://cloud.google.com/looker), [Tableau](https://www.tableau.com/), and [MicroStrategy](https://www.microstrategy.com/). 
 
-Also see my [tutorials](https://kbroman.org/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+My education is in Economics. I am working to obtain a MS Economics degree from Purdue University, building on my BS Economics degree from UT Dallas. 
+
+---
+
+This website will serve as a place for me to share things I've worked on. On the footer of every page is a link to my [GitHub](https://github.com/FeatherAnalytics). Follow the link for an overview of my [GitHub Repositories](pages/repositories.html).
