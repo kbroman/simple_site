@@ -9,7 +9,6 @@ other resources.
 
 - [GitHub Pages](https://pages.github.com)
 - [Jekyll](https://jekyllrb.com)
-- [JekyllBootstrap](https://jekyllbootstrap.com)
 - [Twitter Bootstrap](https://getbootstrap.com)
 - [Markdown](https://daringfireball.net/projects/markdown)
 - [kramdown](https://kramdown.gettalong.org)
